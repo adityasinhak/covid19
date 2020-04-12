@@ -3,9 +3,9 @@
 <img src="./man/figures/logo.png" height="250px" />
 
 <!-- badges: start -->
-[![CircleCI build status](https://circleci.com/gh/adityasinhak/covid19.svg?style=svg)](https://circleci.com/gh/JohnCoene/coronavirus)
+[![CircleCI build status](https://circleci.com/gh/adityasinhak/covid19.svg?style=svg)](https://circleci.com/gh/adityasinhak/covid19)
 [![Travis build status](https://travis-ci.org/adityasinhak/covid19.svg?branch=master)](https://travis-ci.org/JohnCoene/coronavirus)
-[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/adityasinhak/covid19?branch=master&svg=true)](https://ci.appveyor.com/project/JohnCoene/coronavirus)
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/adityasinhak/covid19?branch=master&svg=true)](https://ci.appveyor.com/project/adityasinhak/covid19)
 ![R-CMD-check](https://github.com/adityasinhak/covid19/workflows/R-CMD-check/badge.svg)
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
 ![](https://img.shields.io/badge/license-MIT-blue)
